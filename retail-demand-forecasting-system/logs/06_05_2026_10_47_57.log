@@ -1,0 +1,2 @@
+[ 2026-06-05 10:47:57,851 ] 35 root - INFO - Data Ingestion Started
+[ 2026-06-05 10:47:57,853 ] 100 root - ERROR - [Errno 2] No such file or directory: 'data\\raw\\walmart.csv'

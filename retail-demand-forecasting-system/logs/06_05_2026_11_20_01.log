@@ -1,0 +1,4 @@
+[ 2026-06-05 11:20:01,477 ] 35 root - INFO - Data Ingestion Started
+[ 2026-06-05 11:20:01,524 ] 46 root - INFO - Dataset Loaded Successfully. Shape: (6435, 8)
+[ 2026-06-05 11:20:01,587 ] 73 root - INFO - Train and Test files saved
+[ 2026-06-05 11:20:01,588 ] 91 root - INFO - Data Ingestion Completed Successfully
